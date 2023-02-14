@@ -1,0 +1,15 @@
+C:\Users\ellio\source\repos\funWithMusic\funWithMusic\bin\Debug\net6.0\funWithMusic.exe
+C:\Users\ellio\source\repos\funWithMusic\funWithMusic\bin\Debug\net6.0\funWithMusic.deps.json
+C:\Users\ellio\source\repos\funWithMusic\funWithMusic\bin\Debug\net6.0\funWithMusic.runtimeconfig.json
+C:\Users\ellio\source\repos\funWithMusic\funWithMusic\bin\Debug\net6.0\funWithMusic.dll
+C:\Users\ellio\source\repos\funWithMusic\funWithMusic\bin\Debug\net6.0\funWithMusic.pdb
+C:\Users\ellio\source\repos\funWithMusic\funWithMusic\obj\Debug\net6.0\funWithMusic.csproj.AssemblyReference.cache
+C:\Users\ellio\source\repos\funWithMusic\funWithMusic\obj\Debug\net6.0\funWithMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\source\repos\funWithMusic\funWithMusic\obj\Debug\net6.0\funWithMusic.AssemblyInfoInputs.cache
+C:\Users\ellio\source\repos\funWithMusic\funWithMusic\obj\Debug\net6.0\funWithMusic.AssemblyInfo.cs
+C:\Users\ellio\source\repos\funWithMusic\funWithMusic\obj\Debug\net6.0\funWithMusic.csproj.CoreCompileInputs.cache
+C:\Users\ellio\source\repos\funWithMusic\funWithMusic\obj\Debug\net6.0\funWithMusic.dll
+C:\Users\ellio\source\repos\funWithMusic\funWithMusic\obj\Debug\net6.0\refint\funWithMusic.dll
+C:\Users\ellio\source\repos\funWithMusic\funWithMusic\obj\Debug\net6.0\funWithMusic.pdb
+C:\Users\ellio\source\repos\funWithMusic\funWithMusic\obj\Debug\net6.0\funWithMusic.genruntimeconfig.cache
+C:\Users\ellio\source\repos\funWithMusic\funWithMusic\obj\Debug\net6.0\ref\funWithMusic.dll
